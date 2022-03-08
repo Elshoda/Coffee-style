@@ -1,0 +1,235 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+    background-color: gray;
+}
+ul li{
+    display: inline-block;
+    padding: 10pt;
+    font-weight: 700;
+}
+.container{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 5vh;
+  
+}
+.navbar{
+    width: 100%;
+    background-color: white;
+    display: inline-block;
+    padding-left: 20vh;
+}
+.navbar h4{
+    font-weight: 700;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    padding: 4vh;
+    
+}
+.home{
+    width: 100%;
+    height: 80vh;
+    background-image: linear-gradient(rgba(155,0,0,0.2),rgba(155, 4, 4, 0.2)), url(https://perfectdailygrind.com/wp-content/uploads/2019/11/mike-kenneally-46284-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 30vh;
+    color: white;
+}
+.content{
+  text-align: center;
+  margin-right: 450pt;
+}
+button{
+    margin-right: 20vh;
+}
+.home h1{
+    font-weight: 500;
+    font-size: 50pt;
+    text-align: center;
+
+}
+.home h3{
+    font-weight: 500;
+    font-size: 20pt;
+    text-align: center;
+
+}
+.home{
+    padding-left: 40vh;
+}
+.home button{
+    padding:10px 50px;
+    color: rgb(14, 13, 13);
+    background-color: white;
+    border: 1px solid white;
+    cursor: pointer;
+    margin-left: 20vh;
+    margin-top: 5vh;
+
+}
+.info{
+    width: 100%;
+    height: 50vh;
+    
+    background-color: #EDEDED;
+    padding-top:10vh;
+    text-align: center;
+}
+.info h3{
+    font-weight: 200;
+    border-bottom: 1px solid black;
+    width: 20vh;
+    margin-left: 80vh;
+}
+.left{
+    width: 50%;
+    
+}
+.left h4{
+    font-weight: 400;
+}
+.right{
+    width: 50%;
+    padding-right:5%;
+}
+.right p{
+    font-size:7pt;
+    margin-bottom:2vh;
+}
+.image{
+    width: 100%;
+    
+    
+}
+.box1{
+    width: 100%;
+    height: 60vh;
+    display: flex;
+    padding-top: 3vh;
+}
+.image1{
+    width: 40vh;
+    height: 50vh;
+    margin-left: 25vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(https://i.pinimg.com/originals/84/47/bc/8447bc1049422702a8875836a62fa949.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+.image2{
+    width: 40vh;
+    height: 50vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(https://static.tildacdn.com/tild3336-6536-4363-b563-323936306335/Coffee_Cup_Grain_513.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-left: 10vh;
+}
+.box2{
+    width: 100%;
+    height: 55vh;
+    display: flex;
+}
+.image3{
+    width: 40vh;
+    height: 50vh;
+    margin-left: 4vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(https://static0.therichestimages.com/wordpress/wp-content/uploads/2018/11/Coffee.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.image4{
+    width: 40vh;
+    height: 50vh;
+    margin-left: 7vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(https://thumbs.dreamstime.com/b/coffee-beans-black-background-raw-coffee-beans-grained-product-hot-drink-close-up-harvesting-natural-background-energy-72907285.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.image5{
+    width: 40vh;
+    height: 50vh;
+    margin-left: 7vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(https://images8.alphacoders.com/721/thumb-1920-721198.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.box3{
+    width: 100%;
+    height: 55vh;
+    display: flex;
+}
+.image6{
+    width: 40vh;
+    height: 50vh;
+    margin-left: 25vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(https://im0-tub-ru.yandex.net/i?id=acaaa8dc5a2808675e9e4c6fc66adc2c-l&ref=rim&n=13&w=1080&h=724);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.image7{
+    width: 40vh;
+    height: 50vh;
+    margin-left: 10vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(https://images8.alphacoders.com/104/1043037.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.box3{
+    width: 100%;
+    height: 55vh;
+    display: flex;
+}
+.image8{
+    width: 40vh;
+    height: 50vh;
+    margin-left: 4vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(https://miro.medium.com/max/1200/0*QtkYR7TAYy_yz04k.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.image9{
+    width: 40vh;
+    height: 50vh;
+    margin-left: 7vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(https://im0-tub-ru.yandex.net/i?id=6b645edcd367650b28b2bd749dffdbd2-l&ref=rim&n=13&w=1080&h=1080);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.image10{
+    width: 40vh;
+    height: 50vh;
+    margin-left: 7vh;
+    background: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(https://st3.depositphotos.com/12390390/15331/i/1600/depositphotos_153312078-stock-photo-coffee-beans-and-cup-with.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.coffee{
+    padding-left: 10vh;
+}
+.p{
+    margin: 4vh 20vh;
+}
+.info1{
+    width: 90%;
+    
+    
+    background-color: #EDEDED;
+   
+    text-align: center;
+}
